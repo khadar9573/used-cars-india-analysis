@@ -1,0 +1,6 @@
+step,rows_before,rows_after,rows_removed,rows_changed
+Drop the old row number column,15411,15411,0,0
+Make brand spelling consistent (ISUZU and Isuzu),15411,15411,0,2
+Remove exact duplicate rows,15411,15244,167,0
+Remove cars with 0 seats,15244,15242,2,0
+"Remove cars driven more than 100,000 km per year",15242,15229,13,0

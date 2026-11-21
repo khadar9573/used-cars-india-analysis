@@ -1,0 +1,80 @@
+{
+  "raw_rows": 15411,
+  "brand_fixed": 2,
+  "duplicates_removed": 167,
+  "zero_seats_removed": 2,
+  "km_removed": 13,
+  "clean_rows": 15229,
+  "pct_rows_kept": 98.8190253714879,
+  "brands": 31,
+  "models": 120,
+  "price_median": 556000.0,
+  "price_mean": 774551.5053516318,
+  "price_max": 39500000.0,
+  "cars_over_1_crore": 7,
+  "median_age": 6.0,
+  "median_km": 50000.0,
+  "pct_manual": 79.34204478297984,
+  "pct_dealer": 63.16895396940049,
+  "pct_petrol": 49.583032372447306,
+  "pct_diesel": 48.13842011950884,
+  "top2_brands": [
+    "Maruti",
+    "Hyundai"
+  ],
+  "top2_brands_pct": 51.75651717118656,
+  "median_price_age_0": 525000.0,
+  "median_price_age_2": 816000.0,
+  "median_price_age_5": 600000.0,
+  "median_price_age_10": 335500.0,
+  "dep_models": 36,
+  "dep_median": 10.64190275429538,
+  "dep_best_model": "Maruti Celerio",
+  "dep_best": 4.920717927081075,
+  "dep_worst_model": "Mercedes-Benz E-Class",
+  "dep_worst": 16.265798465058744,
+  "dep_best3": [
+    [
+      "Maruti Celerio",
+      4.9
+    ],
+    [
+      "Maruti Eeco",
+      6.8
+    ],
+    [
+      "Maruti Vitara",
+      7.3
+    ]
+  ],
+  "dep_worst3": [
+    [
+      "Mercedes-Benz E-Class",
+      16.3
+    ],
+    [
+      "Mercedes-Benz C-Class",
+      15.8
+    ],
+    [
+      "BMW 5",
+      15.1
+    ]
+  ],
+  "gap_auto_raw": 2.1,
+  "gap_auto_same": 1.4197368421052632,
+  "gap_auto_n": 16,
+  "gap_diesel_raw": 1.5217391304347827,
+  "gap_diesel_same": 0.9665343289018393,
+  "gap_diesel_n": 16,
+  "gap_dealer_raw": 1.1568627450980393,
+  "gap_dealer_same": 1.036,
+  "gap_dealer_n": 29,
+  "rho_price_age": -0.47791960848971665,
+  "rho_price_km": -0.16672512240500845,
+  "rho_price_power": 0.7211040820640836,
+  "rho_price_engine": 0.6428446312467231,
+  "rho_mileage_engine": -0.4907629912899037,
+  "electric_rows": 4,
+  "median_km_per_year": 8428.57142857143
+}
